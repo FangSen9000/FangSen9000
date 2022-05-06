@@ -39,13 +39,20 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
 ## ❤️ More about Me
 
 Name: 				              Sen Fang (Wirth)
+
 Email: 				             wirth.fang@foxmail.com
+
 Github: 			             github.com/FangSen9000
+
 Time Zone: 			          UTC+08:00 (China)
+
 Location: 			           Zhengzhou, Henan, China
+
 Education:              Henan University, Victoria University, Australia, double major in                         
                         Computer Science and Technology. sophomore.
+
 Telephone:              +86 18143465655
+
 CSDN blog：             [Wirth‘s blog（Chinese）][2]                 
 
 Self-introduction
