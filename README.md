@@ -38,19 +38,21 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
 
 ## ❤️ More about Me
 
-Name: 				Sen Fang (Wirth)
-Email: 				wirth.fang@foxmail.com
-Github: 			github.com/FangSen9000
-Time Zone: 			UTC+08:00 (China)
-Location: 			Zhengzhou, China
-Education:                              Henan University, Victoria University, Australia, double major in                         
-                                               Computer Science and Technology. sophomore.
-Telephone:                             +86 18143465655
-CSDN blog：                         Wirth‘s blog（Chinese）                 
+Name: 				              Sen Fang (Wirth)
+Email: 				             wirth.fang@foxmail.com
+Github: 			             github.com/FangSen9000
+Time Zone: 			          UTC+08:00 (China)
+Location: 			           Zhengzhou, Henan, China
+Education:              Henan University, Victoria University, Australia, double major in                         
+                        Computer Science and Technology. sophomore.
+Telephone:              +86 18143465655
+CSDN blog：             [Wirth‘s blog（Chinese）][2]                 
 
 Self-introduction
+
 As for me, I am a pathfinder, I love open source, and really enjoy the atmosphere of Open source the community and writing code. I have rich experience in image processing under the guidance of my professor Yan in the virtual reality lab. I have participated in ACM International University Student Programming Competition and have some experience in algorithms. It is worth mentioning that I have experience in bytedance youth training camp, which is just like Microsoft Exploration Program or Google Step Program. 
 
 
 [0]: https://weibo.com/u/7529631649
 [1]: https://www.zhihu.com/people/ao-gu-si-du-1-15
+[2]: https://blog.csdn.net/m0_50854494?type=blog
