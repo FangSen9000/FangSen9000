@@ -27,7 +27,9 @@ I have some works with **JavaScript**, mainly **reac.js**, **Node.js** and **WeC
 ## 💡 Projects with My Work
 
 - [**火山引擎后台管理系统**](https://github.com/FangSen9000/team1730): A backend management system that mimics bytedance volcano Engine cloud service.
-
+- [**Php服务端+客户端系统**](https://github.com/FangSen9000/Php-system): An XAMPP-based front and back end systems using PHP and NetBeans.
+- [**校易云校园平台小程序**](https://github.com/FangSen9000/xiaoyiyun): A campus service platform：房森（Wirth） modified the release page box.
+- 
 ## 📚 Tech Articles and Ideas 
 
 You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://blog.csdn.net/m0_50854494?type=blog). 
