@@ -50,7 +50,7 @@ Time Zone: 			          UTC+08:00 (China)
 Location: 			           Zhengzhou, Henan, China
 
 Education:              Henan University, Victoria University, Australia, double major in                         
-                        Computer Science and Technology. sophomore.
+                        Computer Science and Technology.
 
 Telephone:              +86 18143465655
 
