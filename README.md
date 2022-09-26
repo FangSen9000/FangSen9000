@@ -22,7 +22,7 @@ I have some works with **JavaScript**, mainly **reac.js**, **Node.js** and **WeC
 
 ## 📫 Contact Me on Social Media
 
- ✉️ [Email](mailto:wirth.fang@foxmail.com) | [Sina Weibo][0] | [Zhihu][1] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
+ ✉️ [Main-Email](mailto:wirth.fang@foxmail.com) | [Sina Weibo][0] | [Zhihu][1] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
 
 ## 💡 Projects with My Work
 
@@ -43,7 +43,7 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
 
 Name: 				              Sen Fang (Wirth)
 
-Email: 				             wirth.fang@foxmail.com
+Main-Email: 				             wirth.fang@foxmail.com
 
 Github: 			             github.com/FangSen9000
 
