@@ -37,7 +37,8 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
  
 ## 💻 Open Source Work Stats
 
-![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)```text
+![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)
+```text
 🌞 Morning    4 commits
 🌆 Daytime    6 commits
 🌃 Evening    45 commits
