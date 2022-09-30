@@ -27,11 +27,11 @@ I have some works with **JavaScript**, mainly **reac.js**, **Node.js** and **WeC
 ```shell
 Main/Github-Email:    1285233846@qq.com    alias: wirth.fang@foxmail.com
 
-Research-Email:      fangsen2024@gmail.com
+Research-Email:       fangsen2024@gmail.com
 
-VU-Email:         sen.fang@live.vu.edu.au
+VU-Email:             sen.fang@live.vu.edu.au
 
-Henu-Email:        2024030107@henu.edu.cn    alias: 1285233846@henu.edu.cn
+Henu-Email:           2024030107@henu.edu.cn    alias: 1285233846@henu.edu.cn
 ```
 
 ## 💡 Projects with My Work
