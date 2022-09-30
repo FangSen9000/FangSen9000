@@ -24,7 +24,7 @@ I have some works with **JavaScript**, mainly **reac.js**, **Node.js** and **WeC
 
  ✉️ [Main-Email](mailto:wirth.fang@foxmail.com) | [Sina Weibo][0] | [Zhihu][1] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
 
-shell'''
+text```
 Main/Github-Email: 				    1285233846@qq.com         alias: wirth.fang@foxmail.com
 
 Research-Email: 				       fangsen2024@gmail.com
@@ -32,7 +32,7 @@ Research-Email: 				       fangsen2024@gmail.com
 VU-Email: 				             sen.fang@live.vu.edu.au
 
 Henu-Email: 				           2024030107@henu.edu.cn    alias: 1285233846@henu.edu.cn
-'''
+```
 ## 💡 Projects with My Work
 
 - [**Apache APISIX**](https://github.com/apache/apisix): Apache Top-Level-Project, a cloud native API gateway.
