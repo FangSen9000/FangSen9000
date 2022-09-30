@@ -37,7 +37,7 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
  
 ## 💻 Open Source Work Stats
 
-![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)
+![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)Main-Email: 				             wirth.fang@foxmail.com
 
 ## ❤️ More about Me
 
