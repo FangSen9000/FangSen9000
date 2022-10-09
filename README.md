@@ -70,7 +70,7 @@ CSDN blog：             [Wirth‘s blog（Chinese）][2]
 
 Self-introduction
 
-As for me, I am a pathfinder, I love open source, and really enjoy the atmosphere of Open source the community and writing code. I have rich experience in image processing under the guidance of my professor Yan in the virtual reality lab. I have participated in be akin to ACM International University Student Programming Competition and have some experience in algorithms. I have experience in bytedance youth training camp, which is just like Microsoft Exploration Program or Google Step Program. It is worth mentioning that I've been a long-term Apache APISIX （Top-Level-Project） contributor since my sophomore year.
+As for me, I am a pathfinder, I love open source, and really enjoy the atmosphere of Open source the community and writing code. I have rich experience in image processing under the guidance of my professor Yan in the virtual reality lab. I have participated in be akin to ACM International University Student Programming Competition and have some experience in algorithms. I have experience in bytedance youth training camp, which is just like Microsoft Exploration Program or Google Step Program. It is worth mentioning that I've been a long-term Apache APISIX （Top-Level-Project） contributor since my sophomore year, mentor is @SkyeYoung.
 
 
 [0]: https://weibo.com/u/7529631649
