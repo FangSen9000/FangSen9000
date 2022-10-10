@@ -22,7 +22,7 @@ I have some works with **JavaScript**, mainly **reac.js**, **Node.js** and **WeC
 
 ## 📫 Contact Me on Social Media
 
- ✉️ [Main-Email](mailto:wirth.fang@foxmail.com) | [Sina Weibo][0] | [Zhihu][1] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
+ ✉️ [Main-Email](mailto:wirth.fang@foxmail.com) | ✉👨‍🎓 [All-Emails](mailto:https://github.com/FangSen9000/FangSen9000/issues/1) | [Sina Weibo][0] | [Zhihu][1] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
 
 ```shell
 Main/Github-Email:      1285233846@qq.com          //alias: wirth.fang@foxmail.com
