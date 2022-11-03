@@ -24,7 +24,7 @@ You can visit my page https://fangsen9000.github.io.
 
 ## 📫 Contact Me on Social Media
 
- ✉️ [Main-Email](mailto:wirth.fang@foxmail.com) | 👨‍🎓 [All-Emails](https://github.com/FangSen9000/FangSen9000/issues/1) | [Sina Weibo][0] | [Zhihu][1] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
+ ✉️ [Main-Email](mailto:wirth.fang@foxmail.com) | 👨‍🎓 [All-Emails](https://github.com/FangSen9000/FangSen9000/issues/1) | [Zhihu][0] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
 
 ## 💡 Projects with My Work
 
@@ -58,7 +58,7 @@ Education:              Henan University, Victoria University, Australia, double
 
 Telephone:              +86 18143465655
 
-CSDN blog：             [Wirth‘s blog（Chinese）][2]                 
+CSDN blog：             [Wirth‘s blog（Chinese）][1]                 
 
 Self-introduction
 
@@ -67,6 +67,5 @@ As for me, I am a pathfinder, I love open source, and really enjoy the atmospher
 It is worth mentioning that I've been a long-term Apache APISIX （Top-Level-Project） contributor since my sophomore year, mentor is [**@杨陶(SkyeYoung)**](https://github.com/SkyeYoung). The person who took me to the field of scientific research was Professor [**@张德道(Teoh TeikToe)**](https://github.com/teohteiktoe) of Nanyang Technological University, Singapore.
 
 
-[0]: https://weibo.com/u/7529631649
-[1]: https://www.zhihu.com/people/ao-gu-si-du-1-15
-[2]: https://blog.csdn.net/m0_50854494?type=blog
+[0]: https://www.zhihu.com/people/ao-gu-si-du-1-15
+[1]: https://blog.csdn.net/m0_50854494?type=blog
