@@ -39,7 +39,10 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
  
 ## 💻 Open Source Work Stats
 
-![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)
+![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fangsen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cn.linkedin.com/in/fangsen?trk=profile-badge">房森</a></div>
+              
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## ❤️ More about Me
 
