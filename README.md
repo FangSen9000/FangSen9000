@@ -26,13 +26,17 @@ You can visit my page https://fangsen9000.github.io.
 
  ✉️ [Main-Email](mailto:wirth.fang@foxmail.com) | 👨‍🎓 [All-Emails](https://github.com/FangSen9000/FangSen9000/issues/1) | [Zhihu][0] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
 
-## 💡 Projects with My Work
+<details>
+<summary>## 💡 Projects with My Work</summary>
 
-- [**Apache APISIX**](https://github.com/apache/apisix): Apache Top-Level-Project, a cloud native API gateway.
+ - [**Apache APISIX**](https://github.com/apache/apisix): Apache Top-Level-Project, a cloud native API gateway.
 - [**Apache APISIX Dashboard**](https://github.com/apache/apisix-dashboard): Visual control dashboard of APISIX.
 - [**火山引擎后台管理系统**](https://github.com/FangSen9000/team1730): A backend management system that mimics bytedance volcano Engine cloud service.
 - [**Php服务端+客户端系统**](https://github.com/FangSen9000/Php-system): An XAMPP-based front and back end systems using PHP and NetBeans.
 - [**校易云校园平台小程序**](https://github.com/FangSen9000/xiaoyiyun): A campus service platform：房森（Wirth） modified the release page box.
+ 
+</details>
+
 ## 📚 Tech Articles and Ideas 
 
 You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://blog.csdn.net/m0_50854494?type=blog). 
