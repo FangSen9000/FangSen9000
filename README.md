@@ -29,8 +29,8 @@ You can visit my page https://fangsen9000.github.io.
 ## 💡 Projects with My Work
 
 <details>
-<summary><h5>Industrial world</h5> extensible</summary>
-
+<summary><b>Industrial world</b> extensible</summary>
+ 
 - [**Apache APISIX**](https://github.com/apache/apisix): Apache Top-Level-Project, a cloud native API gateway.
 - [**Apache APISIX Dashboard**](https://github.com/apache/apisix-dashboard): Visual control dashboard of APISIX.
 - [**火山引擎后台管理系统**](https://github.com/FangSen9000/team1730): A backend management system that mimics bytedance volcano Engine cloud service.
@@ -40,8 +40,8 @@ You can visit my page https://fangsen9000.github.io.
 </details>
 
 <details>
-<summary><h5>Academic world</h5></summary>
-
+<summary><b>Academic world</b></summary>
+ 
 - [**Ai-tools**](https://github.com/FangSen9000/ai-tools): Tools, Wirth wrote or collected for deep learning.
 
 </details>
