@@ -42,7 +42,7 @@ You can visit my page https://fangsen9000.github.io.
 <details>
 <summary>Academic world</summary>
 
-- [**ai-tools**](https://github.com/FangSen9000/ai-tools): Apache Top-Level-Project, a cloud native API gateway.
+- [**Ai-tools**](https://github.com/FangSen9000/ai-tools): Tools, Wirth wrote or collected for deep learning.
 
 </details>
 
