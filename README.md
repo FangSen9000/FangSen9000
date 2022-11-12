@@ -29,7 +29,7 @@ You can visit my page https://fangsen9000.github.io.
 ## 💡 Projects with My Work
 
 <details>
-<summary>Industrial world</summary>
+<summary><b>Industrial world</b> extensible</summary>
 
 - [**Apache APISIX**](https://github.com/apache/apisix): Apache Top-Level-Project, a cloud native API gateway.
 - [**Apache APISIX Dashboard**](https://github.com/apache/apisix-dashboard): Visual control dashboard of APISIX.
