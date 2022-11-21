@@ -72,7 +72,7 @@ Location: 			           Zhengzhou, Henan, China
 Education:              Henan University, Victoria University, Australia, double major in                         
                         Computer Science and Technology.
 
-Telephone:              +86 18143465655
+Telephone:              +86 15836057829
 
 CSDN blog：             [Wirth‘s blog（Chinese）][1]                 
 
