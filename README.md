@@ -43,6 +43,7 @@ You can visit my page https://fangsen9000.github.io.
 <summary><b>Academic world</b></summary>
 
 - [**Ai-tools**](https://github.com/FangSen9000/ai-tools): Tools, Wirth wrote or collected for deep learning.
+- [**WavBriVL**](https://github.com/FangSen9000/WavBriVL): Code of thesis. Learn robust audio representation from BriVL.
 
 </details>
 
