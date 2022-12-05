@@ -55,7 +55,7 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
  
 ## 💻 Open Source Work Stats
 
-![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)
+![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FangSen9000&hide_title=true&hide_border=false&layout=compact&theme=graywhite&locale=cn" />
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=FangSen9000&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FangSen9000&hide_title=true&hide_border=false&layout=compact&theme=graywhite&locale=cn" />
 
