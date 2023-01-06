@@ -32,7 +32,6 @@ You can visit my page https://fangsen9000.github.io.
 <details>
 <summary><b>Industrial world</b></summary>
 
- <br>
 - [**Apache APISIX**](https://github.com/apache/apisix): Apache Top-Level-Project, a cloud native API gateway.
 - [**Apache APISIX Dashboard**](https://github.com/apache/apisix-dashboard): Visual control dashboard of APISIX.
 - [**火山引擎后台管理系统**](https://github.com/FangSen9000/team1730): A backend management system that mimics bytedance volcano Engine cloud service.
@@ -44,7 +43,6 @@ You can visit my page https://fangsen9000.github.io.
 <details>
 <summary><b>Academic world</b></summary>
 
-<br>
 - [**CS MS/PhD Lab**](https://github.com/csmsapp): Online laboratory I initiated for scientific research communication based on CS MS application organization.
 - [**HENU-CS**](https://github.com/HENU-CS): Organization I initiated: Survival Handbook/Study Abroad Handbook (生存/飞跃手册) of HENU.
 - [**Ai-tools**](https://github.com/FangSen9000/ai-tools): Tools, Wirth wrote or collected for deep learning.
