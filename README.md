@@ -47,9 +47,11 @@ You can visit my page https://fangsen9000.github.io.
 <summary><b>Academic world</b></summary>
 
 - [**CS MS/PhD Lab**](https://github.com/csmsapp): Online laboratory I initiated for scientific research communication based on CS MS application organization.
+- [**PaperName1**](https://github.com/FangSen9000/): Code of thesis. Anonymous period, no publicity.
+- [**PaperName2**](https://github.com/FangSen9000/): Code of thesis. Anonymous period, no publicity.
+- [**PaperName3**](https://github.com/FangSen9000/): Code of thesis. Anonymous period, no publicity.
 - [**HENU-CS**](https://github.com/HENU-CS): Organization I initiated: Survival Handbook/Study Abroad Handbook (生存/飞跃手册) of HENU.
 - [**Ai-tools**](https://github.com/FangSen9000/ai-tools): Tools, Wirth wrote or collected for deep learning.
-- [**WavBriVL**](https://github.com/FangSen9000/WavBriVL): Code of thesis. Learn robust audio representation from BriVL.
 
 </details>
 
