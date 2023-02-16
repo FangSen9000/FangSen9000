@@ -32,7 +32,7 @@ You can visit my page https://fangsen9000.github.io.
 <details>
 <summary><b>Industrial world</b></summary>
 
-- [**Apache APISIX(11k+ Stars!)**](https://github.com/apache/apisix): Apache Top-Level-Project, a cloud native API gateway.
+- [**Apache APISIX (11k+ Stars!)**](https://github.com/apache/apisix): Apache Top-Level-Project, a cloud native API gateway.
 - [**Apache APISIX Dashboard**](https://github.com/apache/apisix-dashboard): Visual control dashboard of APISIX.
 - [**火山引擎后台管理系统**](https://github.com/FangSen9000/team1730): A backend management system that mimics bytedance volcano Engine cloud service.
 - [**Php服务端+客户端系统**](https://github.com/FangSen9000/Php-system): An XAMPP-based front and back end systems using PHP and NetBeans.
