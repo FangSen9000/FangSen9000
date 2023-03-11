@@ -54,6 +54,7 @@ You can visit my page https://fangsen9000.github.io.
 - [**PaperName1**](https://github.com/FangSen9000/): Code of thesis. Anonymous period, no publicity.
 - [**PaperName2**](https://github.com/FangSen9000/): Code of thesis. Anonymous period, no publicity.
 - [**PaperName3**](https://github.com/FangSen9000/): Code of thesis. Anonymous period, no publicity.
+- [**PaperName3**](https://github.com/FangSen9000/): Code of thesis. Prepare period, no publicity.
 - [**HENU-CS**](https://github.com/HENU-CS): Organization I initiated: Survival Handbook/Study Abroad Handbook (生存/飞跃手册) of HENU.
 - [**Ai-tools**](https://github.com/FangSen9000/ai-tools): Tools, Wirth wrote or collected for deep learning.
 
