@@ -45,6 +45,7 @@ You can visit my page https://fangsen9000.github.io.
 - [**Cloud-app**](https://github.com/FangSen9000/Cloud-app): Salesforce-based business cloud applications.
 - [**Bootstrap-art**](https://github.com/FangSen9000/Bootstrap-art): Use Bootstrap to create a static introduction to classical art and music.
 - [**校易云校园平台小程序**](https://github.com/FangSen9000/xiaoyiyun): A campus service platform：房森（Wirth） modified the release important pages.
+- [**概率论与统计**](https://github.com/FangSen9000/Probability): Information on probability theory and statistics.
  
 </details>
 
