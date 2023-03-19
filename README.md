@@ -38,6 +38,7 @@ You can visit my page https://fangsen9000.github.io.
 - [**Php服务端+客户端系统**](https://github.com/FangSen9000/Php-system): An XAMPP-based front and back end systems using PHP and NetBeans.
 - [**河南大学校友会**](https://github.com/FangSen9000/Reunion-henu): A program created by students of Henan University alumni Association.
 - [**Assembly-lab**](https://github.com/FangSen9000/Assembly): Assembly language and technology course experiment code and report.
+- [**SE-system**](https://github.com/FangSen9000/SE-system): System design of software engineering.
 - [**C#-bankmanager**](https://github.com/FangSen9000/Csharp-bankmanager): A bank management system written in C # language.
 - [**Server-management**](https://github.com/FangSen9000/Server-management): Windows 16 server management experiment and report.
 - [**Wordpress-edu**](https://github.com/FangSen9000/Wordpress-edu): Use Wordpress to create a mysql-based educational website.
