@@ -43,6 +43,7 @@ You can visit my page https://fangsen9000.github.io.
 - [**Server-management**](https://github.com/FangSen9000/Server-management): Windows 16 server management experiment and report.
 - [**Networks**](https://github.com/FangSen9000/Network): Experiments in computer networks.
 - [**Project-Management**](https://github.com/FangSen9000/Project-Management): Project Management and Practice.
+- [**Communication**](https://github.com/FangSen9000/Communication): Communication and information management.
 - [**Wordpress-edu**](https://github.com/FangSen9000/Wordpress-edu): Use Wordpress to create a mysql-based educational website.
 - [**Cloud-app**](https://github.com/FangSen9000/Cloud-app): Salesforce-based business cloud applications.
 - [**Bootstrap-art**](https://github.com/FangSen9000/Bootstrap-art): Use Bootstrap to create a static introduction to classical art and music.
