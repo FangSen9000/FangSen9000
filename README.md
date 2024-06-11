@@ -50,6 +50,13 @@ You can visit my page https://fangsen9000.github.io.
 - [**Bootstrap-art**](https://github.com/FangSen9000/Bootstrap-art): Use Bootstrap to create a static introduction to classical art and music.
 - [**校易云校园平台小程序**](https://github.com/FangSen9000/xiaoyiyun): A campus service platform：房森（Wirth） modified the release important pages.
 - [**概率论与统计**](https://github.com/FangSen9000/Probability): Information on probability theory and statistics.
+- [**OS Lab of HENU**](https://github.com/FangSen9000/HENU-OS): Computer operating system experiment of Henan University.
+- [**HENU-Computer-Networks**](https://github.com/FangSen9000/HENU---Cloud-Application-Development): HENU-Computer-Networks Homework 河南大学计算机网络作业.
+- [**HENU-Virtual-Computing**](https://github.com/FangSen9000/HENU-Virtual-Computing): 河南大学 虚拟计算 大作业 Virtual Computing Homework.
+- [**HENU---Cloud-Application-Development**](https://github.com/FangSen9000/HENU-OS): 河南大学 云应用开发 大作业Cloud Application Development Homework.
+- [**HENU-Big-Data**](https://github.com/FangSen9000/HENU-Big-Data): HENU Big Data homework 河南大学 大数据作业.
+- [**Enterprise-Network-Management**](https://github.com/FangSen9000/Enterprise-Network-Management): 河南大学 企业网络管理课程作业 Enterprise Network Management Homework.
+- [**2020-to-2024-henu-cs-class-schedule**](https://github.com/FangSen9000/2020-to-2024-henu-cs-class-schedule): 2020级河南大学-中澳计算机科学与技术-本科生选课表.
  
 </details>
 
