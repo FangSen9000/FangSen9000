@@ -24,8 +24,8 @@ I have some works with **JavaScript**, mainly **reac.js**, **Node.js** and **WeC
 You can visit my page https://fangsen9000.github.io.
 
 ## 📫 Contact Me on Social Media
-
- ✉️ [Main-Email](mailto:fangsen2024@gmail.com) | 👨‍🎓 [All-Emails/Connections](https://github.com/FangSen9000/FangSen9000/issues/1) | ✍️ [Zhihu][0] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
+【】
+ ✉️ [Main-Email](mailto:fangsen2024@gmail.com) | 👨‍🎓 [All-Emails/Connections](https://github.com/FangSen9000/FangSen9000/issues/1) | ✍️ [Zhihu][0] | 🧑‍💼 [LinkedIn][3] | 💬 [Issue][2] Me about everything!
 
 ## 💡 Projects with My Work
 [**@Apache**](https://github.com/apache)  [**@NTU**](https://www.ntu.edu.sg/)  [**@NUS**](https://www.nus.edu.sg/)  [**@UTD**](https://www.utdallas.edu/)  [**@UCF**](https://www.ucf.edu)  [**@Bytedance**](https://www.bytedance.com/en/)  [**@AWS**](https://aws.amazon.com/)
@@ -115,6 +115,8 @@ It is worth mentioning that I've been a long-term Apache APISIX （Top-Level-Pro
 
 [0]: https://www.zhihu.com/people/ao-gu-si-du-1-15
 [1]: https://blog.csdn.net/m0_50854494?type=blog
+[2]: https://github.com/FangSen9000/FangSen9000/issues
+[3]: https://www.linkedin.com/in/fangsen/
 
 <!--
 ![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)
