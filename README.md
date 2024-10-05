@@ -120,4 +120,6 @@ It is worth mentioning that I've been a long-term Apache APISIX （Top-Level-Pro
 
 <!--
 ![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)
+
+🦄 [Instagram](https://www.instagram.com/senfang01) | 🎥 [Douyin](https://www.douyin.com/search/whileFish?aid=a1295790-37ea-4245-8d50-084ffc232672&type=general) | 🅱️ [Rednote](https://www.xiaohongshu.com/user/profile/5f0c2c0d00000000010074a9) |
 -->
