@@ -89,7 +89,7 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
 <details>
 <summary><b>Self-introduction</b></summary>
 
-Name: 				              Sen Fang (Wirth)
+Name: 				              Sen Fang (whileFish; Wirth)
 
 Main-Email: 				             wirth.fang@foxmail.com
 
