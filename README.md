@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-Hi guys, I'm **Sen**, my famous nickname is **whileFish**, you can also call me Sen. I am a Font-End engineer from Zhengzhong, China.   
+Hi guys, I'm **Sen**, my famous nickname is **whileFish**. I was a Font-End engineer from Zhengzhong, China.   
 I have some works with **JavaScript**, mainly **reac.js**, **Node.js** and **WeChat small program**, contact me if you have same interesting or some questions!
 
 You can visit my page https://fangsen9000.github.io.
