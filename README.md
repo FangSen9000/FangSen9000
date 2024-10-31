@@ -87,7 +87,7 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
 ## ❤️ More about Me
 
 <details>
-<summary><b>Self-introduction</b></summary>
+<summary><b>Self-introduction in 2022</b></summary>
 
 Name: 				              Sen Fang (whileFish; Wirth)
 
