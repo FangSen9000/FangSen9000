@@ -65,7 +65,7 @@ You can visit my page https://fangsen9000.github.io.
 <details>
 <summary><b>Academic world</b></summary>
 
-- [**CS MS/PhD Lab**](https://github.com/opencsapp/): Online laboratory I initiated for scientific research communication based on CS application organization.
+- [**CS MS/PhD Lab**](https://github.com/CSPhDApp): Online laboratory I initiated for scientific research communication based on CS application organization.
 - [**signGPT proj**](https://github.com/FangSen9000/signGPT): We work on a demo site, a milestone in sign language generation work. https://fangsen9000.github.io/signGPT/, You can visit our page.
 - [**PaperName1**](https://github.com/FangSen9000/): Code of thesis. Anonymous period, no publicity.
 - [**PaperName2**](https://github.com/FangSen9000/): Code of thesis. Anonymous period, no publicity.
