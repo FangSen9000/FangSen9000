@@ -25,7 +25,7 @@ You can visit my page https://fangsen9000.github.io.
 
 ## 📫 Contact Me on Social Media
 
-✉️ [Main-Email](mailto:fangsen2024@gmail.com) | 👨‍🎓 [All-Emails/Connections](https://github.com/FangSen9000/FangSen9000/issues/1) | ✍️ [Zhihu][0] | 🧑‍💼 [LinkedIn][3] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
+✉️ [Main-Email](mailto:fangsen2024@gmail.com) | 👨‍🎓 [All-Emails/Connections](https://github.com/FangSen9000/FangSen9000/issues/1) | ✍️ [Zhihu] | 🧑‍💼 [LinkedIn][3] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
 
 🦄 [Instagram](https://www.instagram.com/senfang01) | 🎥 [Tiktok](https://www.tiktok.com/@whilefish) | 🅱️ [Rednote](https://www.xiaohongshu.com/user/profile/671ed236000000000d026aad) | 🦐 Douyin
 
