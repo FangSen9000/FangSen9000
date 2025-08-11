@@ -115,7 +115,7 @@ It is worth mentioning that I've been a long-term Apache APISIX （Top-Level-Pro
 </details>
 
 
-[0]: https://www.zhihu.com/people/ao-gu-si-du-1-15
+[0]: 
 [1]: https://blog.csdn.net/m0_50854494?type=blog
 [2]: https://github.com/FangSen9000/FangSen9000/issues
 [3]: https://www.linkedin.com/in/fangsen/
