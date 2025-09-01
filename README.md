@@ -67,10 +67,6 @@ You can visit my page https://fangsen9000.github.io.
 
 - [**CS MS/PhD Lab**](https://github.com/CSPhDApp): Online laboratory I initiated for scientific research communication based on CS application organization.
 - [**signGPT proj**](https://github.com/FangSen9000/signGPT): We work on a demo site, a milestone in sign language generation work. https://fangsen9000.github.io/signGPT/, You can visit our page.
-- [**PaperName1**](https://github.com/FangSen9000/): Code of thesis. Anonymous period, no publicity.
-- [**PaperName2**](https://github.com/FangSen9000/): Code of thesis. Anonymous period, no publicity.
-- [**PaperName3**](https://github.com/FangSen9000/): Code of thesis. Anonymous period, no publicity.
-- [**PaperName4**](https://github.com/FangSen9000/): Code of thesis. Prepare period, no publicity.
 - [**HENU-CS**](https://github.com/HENU-CS): Organization I initiated: Survival Handbook/Study Abroad Handbook (生存/飞跃手册) of HENU.
 - [**Ai-tools**](https://github.com/FangSen9000/ai-tools): Tools, I wrote for deep learning.
 
@@ -87,7 +83,7 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
 ## ❤️ More about Me
 
 <details>
-<summary><b>Self-introduction in 2022</b></summary>
+<summary><b>Self-introduction in 2021</b></summary>
 
 Name: 				              Sen Fang (whileFish; Wirth)
 
@@ -102,15 +98,13 @@ Location: 			           Zhengzhou, Henan, China
 Education:              Henan University, Victoria University, Australia, double major in                         
                         Computer Science and Technology.
 
-Telephone:              +86 15836057829
-
 CSDN blog：             [Wirth‘s blog（Chinese）][1]                 
 
 Self-introduction
 
-As for me, I am a pathfinder, I love open source, and really enjoy the atmosphere of Open source the community and writing code. I have rich experience in image processing under the guidance of my professor Yan in the virtual reality lab. I have participated in be akin to ACM International University Student Programming Competition and have some experience in algorithms. I have experience in bytedance youth training camp, get the teaching and guidance of systematic development engineers.
+As for me, I am a pathfinder, I love open source, and really enjoy the atmosphere of Open source the community and writing code. I have rich experience in image processing under the guidance of my professor in the virtual reality lab. I have participated in be akin to ACM International University Student Programming Competition and have some experience in algorithms. I have experience in bytedance youth training camp, get the teaching and guidance of systematic development engineers.
 
-It is worth mentioning that I've been a long-term Apache APISIX （Top-Level-Project） contributor since my sophomore year, mentor is [**@杨陶(SkyeYoung)**](https://github.com/SkyeYoung). The person who took me to the field of scientific research was Professor [**@张德道(Teoh TeikToe)**](https://github.com/teohteiktoe) of Nanyang Technological University, Singapore.
+It is worth mentioning that I've been a long-term Apache APISIX （Top-Level-Project） contributor since my sophomore year. My research career began with Nanyang Technological University, Singapore.
 
 </details>
 
