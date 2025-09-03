@@ -30,7 +30,7 @@ You can visit my page https://fangsen9000.github.io.
 🦄 [Instagram](https://www.instagram.com/senfang01) | 🎥 [Tiktok](https://www.tiktok.com/@whilefish) | 🅱️ [Rednote](https://www.xiaohongshu.com/user/profile/671ed236000000000d026aad) | 🦐 Douyin
 
 ## 💡 Projects with My Work
-[**@Apache**](https://github.com/apache)  [**@NTU**](https://www.ntu.edu.sg/)  [**@NUS**](https://www.nus.edu.sg/)  [**@UTD**](https://www.utdallas.edu/)  [**@UCF**](https://www.ucf.edu)  [**@Bytedance**](https://www.bytedance.com/en/)  [**@AWS**](https://aws.amazon.com/)  [**@SignDiff**](https://signdiff.github.io/)  [**@SignLLM**](https://signllm.github.io/)
+[**@Apache**](https://github.com/apache)  [**@NTU**](https://www.ntu.edu.sg/)  [**@NUS**](https://www.nus.edu.sg/)  [**@UTD**](https://www.utdallas.edu/)  [**@UCF**](https://www.ucf.edu)  [**@Bytedance**](https://www.bytedance.com/en/)  [**@AWS**](https://aws.amazon.com/)  [**@SignDiff**](https://signdiff.github.io/)  [**@SignLLM**](https://signllm.github.io/) [**@Hedra**](https://hedra.com)
 
 <details>
 <summary><b>Industrial world</b></summary>
