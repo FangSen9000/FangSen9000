@@ -85,9 +85,9 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
 <details>
 <summary><b>Self-introduction in 2021</b></summary>
 
-Name: 				              Sen Fang (whileFish; Wirth)
+Name: 				              Sen Fang (whileFish; Wirth·Augustus)
 
-Main-Email: 				             wirth.fang@foxmail.com
+Main-Email: 				             wirth.augustus@foxmail.com
 
 Github: 			             github.com/FangSen9000
 
