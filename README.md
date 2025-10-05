@@ -115,6 +115,20 @@ It is worth mentioning that I've been a long-term Apache APISIX （Top-Level-Pro
 [3]: https://www.linkedin.com/in/fangsen/
 
 <!--
+
+I'm **Sen Fang**, my famous nickname is whileFish. The English name I used was Wirth·Augustus. I am the author of the [World Snapshot Model and the Wave Generative Model](). You might be looking for:
+
+- [WSM&WaveGen](https://world-snapshot.github.io) - Project Page of World-Snapshot.
+- [Unified Law for Visual Tasks](https://github.com/World-Snapshot/Unified-Law-for-Visual-Tasks) - The Four Laws of Computer Vision.
+- [WaveGen](https://github.com/World-Snapshot/WaveGen) - The Official Code of Wave Generative Model.
+- [ControlWave](https://github.com/World-Snapshot/ControlWave) - The WebUI of the WaveGen models/method for easier training and control.
+- [Doc](https://world-snapshot.github.io/doc/index.html) - The Official Documentation of World-Snapshot.
+- [Sen-Fang-Initialization](https://github.com/World-Snapshot/Sen-Fang-Initialization) - Carry out fully automatic estimation of external physical knowledge to optimize the internal operation of the model.
+- [The-results-of-Augustus](https://github.com/World-Snapshot/The-results-of-Augustus) - The task results of the "Augustus v1" WSM. The First WSM.
+
+For more details, please refer to the project page on your own. As for this page, it only provides quick links.
+
+
 ![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)
 
 🎥 [Douyin](https://www.douyin.com/search/whileFish?aid=a1295790-37ea-4245-8d50-084ffc232672&type=general)
