@@ -125,6 +125,7 @@ I'm **Sen Fang**, my famous nickname is whileFish. The English name I used was W
 - [Doc](https://world-snapshot.github.io/doc/index.html) - The Official Documentation of World-Snapshot.
 - [Sen-Fang-Initialization](https://github.com/World-Snapshot/Sen-Fang-Initialization) - Carry out fully automatic estimation of external physical knowledge to optimize the internal operation of the model.
 - [The-results-of-Augustus](https://github.com/World-Snapshot/The-results-of-Augustus) - The task results of the "Augustus v1" WSM. The First WSM.
+- [StreamFlow](https://github.com/World-Snapshot/wave2pixel/tree/main/streamflow): The Rectified Flow Model can be accelerated by 300% - 600%, and multi-GPU acceleration has no upper limit.
 
 For more details, please refer to the project page on your own. As for this page, it only provides quick links.
 
