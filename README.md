@@ -116,7 +116,7 @@ It is worth mentioning that I've been a long-term Apache APISIX （Top-Level-Pro
 
 <!--
 
-I'm **Sen Fang**, my famous nickname is whileFish. The English name I used was Wirth·Augustus. I am the author of the [World Snapshot Model and the Wave Generative Model](). You might be looking for:
+I'm **Sen Fang**, my famous nickname is whileFish. The English name I used was Wirth·Augustus. I am the author of the [World Snapshot Model and the Wave Generative Model](). You might be looking for the following concepts that I have proposed:
 
 - [WSM&WaveGen](https://world-snapshot.github.io) - Project Page of World-Snapshot.
 - [Unified Law for Visual Tasks](https://github.com/World-Snapshot/Unified-Law-for-Visual-Tasks) - The Four Laws of Computer Vision.
@@ -126,8 +126,7 @@ I'm **Sen Fang**, my famous nickname is whileFish. The English name I used was W
 - [Sen-Fang-Initialization](https://github.com/World-Snapshot/Sen-Fang-Initialization) - Carry out fully automatic estimation of external physical knowledge to optimize the internal operation of the model.
 - [The-results-of-Augustus](https://github.com/World-Snapshot/The-results-of-Augustus) - The task results of the "Augustus v1" WSM. The First WSM.
 - [StreamFlow](https://github.com/World-Snapshot/wave2pixel/tree/main/streamflow): The Rectified Flow Model can be accelerated by 300% - 600%, and multi-GPU acceleration has no upper limit.
-
-For more details, please refer to the project page on your own. As for this page, it only provides quick links.
+- [Wave2Pixel](https://github.com/World-Snapshot/wave2pixel) | [WSG](https://github.com/World-Snapshot/wsg) | [100% Multimodal Fusion](https://github.com/World-Snapshot/100-percent-multimodal-fusion) | [etc.](https://world-snapshot.github.io)
 
 
 ![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)
