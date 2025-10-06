@@ -128,6 +128,7 @@ I'm **Sen Fang**, my famous nickname is whileFish. The English name I used was W
 - [StreamFlow](https://github.com/World-Snapshot/wave2pixel/tree/main/streamflow): The Rectified Flow Model can be accelerated by 300% - 600%, and multi-GPU acceleration has no upper limit.
 - [Wave2Pixel](https://github.com/World-Snapshot/wave2pixel) | [WSG](https://github.com/World-Snapshot/wsg) | [100% Multimodal Fusion](https://github.com/World-Snapshot/100-percent-multimodal-fusion) | [etc.](https://world-snapshot.github.io)
 
+You can visit my page https://fangsen9000.github.io.
 
 ![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)
 
