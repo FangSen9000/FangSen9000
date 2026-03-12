@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 🐧
 -->
 
+*Last updated in 2026.3*
+
 I'm **Sen Fang**, my famous nickname is **whileFish**. The English name I used was **Wirth·Augustus**. I am the author of the *[Mysterious Giant Project]*. You might be looking for the following concepts that I have proposed:
 
 - [**RAC**](https://world-snapshot.github.io/RAC/) - Make the reconstruction task a condition generation task; Make the decoder the encoder; Make the single-step decoding and encoding a multi-step decoding and encoding.
