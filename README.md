@@ -47,8 +47,7 @@ I'm **Sen Fang**, my famous nickname is **whileFish**. The English name I used w
 
 ## 📫 Contact Me on Social Media
 
-🦄 [Instagram](https://www.instagram.com/senfang01) | 🎥 [Tiktok](https://www.tiktok.com/@whilefish) | 🅱️ [Rednote](https://www.xiaohongshu.com/user/profile/671ed236000000000d026aad)
-
+🦄 [Instagram](https://www.instagram.com/senfang01) | 🎥 [Tiktok](https://www.tiktok.com/@whilefish) | 🅱️ [Rednote](https://www.xiaohongshu.com/user/profile/671ed236000000000d026aad) | @ [Threads](https://www.threads.com/@senfang01)
 
 
 
