@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 🐧
 -->
 
-I'm **Sen Fang**, my famous nickname is **whileFish**. The English name I used was **Wirth·Augustus**. I am the author of the xx. You might be looking for the following concepts that I have proposed:
+I'm **Sen Fang**, my famous nickname is **whileFish**. The English name I used was **Wirth·Augustus**. I am the author of the *[Mysterious Giant Project]*. You might be looking for the following concepts that I have proposed:
 
 - [**RAC**](https://world-snapshot.github.io/RAC/) - Make the reconstruction task a condition generation task; Make the decoder the encoder; Make the single-step decoding and encoding a multi-step decoding and encoding.
 - [**StreamFlow**](https://world-snapshot.github.io/StreamFlow/) - The Rectified Flow Model can be accelerated by 300% - 600%, and multi-GPU acceleration has no upper limit.
