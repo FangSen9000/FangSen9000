@@ -44,9 +44,7 @@ I'm **Sen Fang**, my famous nickname is **whileFish**. The English name I used w
 
 ## 📫 Contact Me on Social Media
 
-✉️ [Main-Email](mailto:fangsen2024@gmail.com) | 👨‍🎓 [All-Emails/Connections](https://github.com/FangSen9000/FangSen9000/issues/1) | ✍️ [Zhihu] | 🧑‍💼 [LinkedIn][3] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
-
-🦄 [Instagram](https://www.instagram.com/senfang01) | 🎥 [Tiktok](https://www.tiktok.com/@whilefish) | 🅱️ [Rednote](https://www.xiaohongshu.com/user/profile/671ed236000000000d026aad) | 🦐 Douyin
+🦄 [Instagram](https://www.instagram.com/senfang01) | 🎥 [Tiktok](https://www.tiktok.com/@whilefish) | 🅱️ [Rednote](https://www.xiaohongshu.com/user/profile/671ed236000000000d026aad)
 
 
 
@@ -82,6 +80,10 @@ I'm **Sen Fang**, my famous nickname is whileFish. The English name I used was W
 
 You can visit my page https://fangsen9000.github.io.
 
+
+✉️ [Main-Email](mailto:fangsen2024@gmail.com) | 👨‍🎓 [All-Emails/Connections](https://github.com/FangSen9000/FangSen9000/issues/1) | ✍️ [Zhihu] | 🧑‍💼 [LinkedIn][3] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
+
+🦐 Douyin
 
 ![FangSen's Github stats](https://github-readme-stats.vercel.app/api?username=FangSen9000&show_icons=true)
 
