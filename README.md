@@ -25,7 +25,7 @@ I'm **Sen Fang**, my famous nickname is **whileFish**. The English name I used w
 
 <sup>1</sup>You can visit my page https://fangsen9000.github.io.
 
-<sub>1. It is temporarily unavailable because I am preparing to complete a 2-years *[TBD]* before carrying out a major update.</sub>
+<sub>1. It is temporarily unavailable because I am preparing to complete a 2-years *[TBD paper]* before carrying out a major update.</sub>
 
 ## 💡 Projects with My Work
 [**@Apache**](https://github.com/apache)  [**@NTU**](https://www.ntu.edu.sg/)  [**@NUS**](https://www.nus.edu.sg/)  [**@UTD**](https://www.utdallas.edu/)  [**@UCF**](https://www.ucf.edu)  [**@Bytedance**](https://www.bytedance.com/en/)  [**@AWS**](https://aws.amazon.com/)  [**@SignDiff**](https://signdiff.github.io/)  [**@SignLLM**](https://signllm.github.io/) [**@Hedra**](https://hedra.com) [**@StreamFlow**](https://world-snapshot.github.io/StreamFlow/) [**@Stable Signer**](https://stablesigner.github.io/) [**@RAC**](https://world-snapshot.github.io/RAC/)
