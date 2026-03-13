@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 🐧
 -->
 
-*Last updated in 2026.3*
-
 I'm **Sen Fang**, my famous nickname is **whileFish**. The English name I used was **Wirth·Augustus**. I am the author of the *[TBD]*. You might be looking for the following concepts that I have proposed:
 
 - [**RAC**](https://world-snapshot.github.io/RAC/) - Make the reconstruction task a condition generation task; Make the decoder the encoder; Make the single-step decoding and encoding a multi-step decoding and encoding.
@@ -66,7 +64,7 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=FangSen9000&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FangSen9000&hide_title=false&hide_border=false&theme=graywhite&layout=compact&locale=en" />
 
-
+*Last updated in 2026.3*
 
 [0]: https://
 [1]: https://blog.csdn.net/m0_50854494?type=blog
