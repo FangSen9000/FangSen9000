@@ -34,8 +34,8 @@ I'm **Sen Fang**, my famous nickname is **whileFish**. The English name I used w
 <summary><b>Some of the projects I participated in or completed were too numerous, so I prefer to categorize them using some Github organizations:</b></summary>
 
 Orgs: 
-- [**World Snapshot**](): 
-- [**SignerX**](): 
+- [**World Snapshot**](https://github.com/World-Snapshot): Unify Computer Vision, Expand Computer Vision, Transcend Computer Vision.
+- [**SignerX**](https://github.com/SignerX): Create Top-level Sign Language Technology.
 - [**CS MS/PhD Lab**](https://github.com/CSPhDApp): Online laboratory I initiated for scientific research communication based on CS application organization.
 - [**HENU-CS**](https://github.com/HENU-CS): Organization I initiated: Survival Handbook/Study Abroad Handbook (生存/飞跃手册) of HENU.
 
