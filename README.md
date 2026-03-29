@@ -43,7 +43,6 @@ Orgs:
 Projs:
 - [**Apache APISIX** *(14k+ Stars!)*](https://github.com/apache/apisix): Apache Top-Level-Project, a cloud native API gateway.
 - [**Apache APISIX Dashboard**](https://github.com/apache/apisix-dashboard): Visual control dashboard of APISIX.
-- [**SignGPT**](https://github.com/FangSen9000/signGPT): We work on a demo site, a milestone in sign language generation work. https://fangsen9000.github.io/signGPT/, You can visit our page.
 - [**AI-tools**](https://github.com/FangSen9000/ai-tools): Tools, I wrote for deep learning.
 - [**Volcano Engine Back-end Management System**](https://github.com/FangSen9000/team1730): A backend management system that mimics bytedance volcano Engine cloud service. https://fangsen9000.github.io/team1730/, You can visit our page.
 - [**BS Course Projects**](https://github.com/HENU-CS/awesome-cs/tree/master): The 19 undergraduate course projects that I completed.
@@ -85,6 +84,8 @@ I'm **Sen Fang**, my famous nickname is whileFish. The English name I used was W
 - [Wave2Pixel](https://github.com/World-Snapshot/wave2pixel) | [WSG](https://github.com/World-Snapshot/wsg) | [100% Multimodal Fusion](https://github.com/World-Snapshot/100-percent-multimodal-fusion) | [etc.](https://world-snapshot.github.io)
 
 You can visit my page https://fangsen9000.github.io.
+
+- [**SignGPT**](https://github.com/FangSen9000/signGPT): We work on a demo site, a milestone in sign language generation work. https://fangsen9000.github.io/signGPT/, You can visit our page.
 
 
 ✉️ [Main-Email](mailto:fangsen2024@gmail.com) | 👨‍🎓 [All-Emails/Connections](https://github.com/FangSen9000/FangSen9000/issues/1) | ✍️ [Zhihu] | 🧑‍💼 [LinkedIn][3] | 💬 [Issue](https://github.com/FangSen9000/FangSen9000/issues) Me about everything!
