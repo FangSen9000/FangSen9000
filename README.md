@@ -60,10 +60,6 @@ Projs:
 ## 📚 Tech Articles and Ideas 
 
 You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://blog.csdn.net/m0_50854494?type=blog). 
- 
-## 💻 Open Source Work Stats
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=FangSen9000&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FangSen9000&hide_title=false&hide_border=false&theme=graywhite&layout=compact&locale=en" />
 
 [0]: https://
 [1]: https://blog.csdn.net/m0_50854494?type=blog
@@ -71,6 +67,12 @@ You can get all my post articles in my blog 📝 [**Sen's CSDN blog**](https://b
 [3]: https://www.linkedin.com/in/fangsen/
 
 <!--
+ 
+## 💻 Open Source Work Stats
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=FangSen9000&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FangSen9000&hide_title=false&hide_border=false&theme=graywhite&layout=compact&locale=en" />
+
+
 I'm **Sen Fang**, my famous nickname is whileFish. The English name I used was Wirth·Augustus. I am the author of the [World Snapshot Model and the Wave Generative Model](). You might be looking for the following concepts that I have proposed:
 
 - [WSM&WaveGen](https://world-snapshot.github.io) - Project Page of World-Snapshot.
