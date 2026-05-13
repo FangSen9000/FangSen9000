@@ -44,7 +44,7 @@ Projs:
 - [**Apache APISIX** *(14k+ Stars!)*](https://github.com/apache/apisix): Apache Top-Level-Project, a cloud native API gateway.
 - [**Apache APISIX Dashboard**](https://github.com/apache/apisix-dashboard): Visual control dashboard of APISIX.
 - [**AI-tools**](https://github.com/FangSen9000/ai-tools): Tools, I wrote for deep learning.
-- [**Volcano Engine Back-end Management System**](https://github.com/FangSen9000/team1730): A backend management system that mimics bytedance volcano Engine cloud service. https://fangsen9000.github.io/team1730/, You can visit our page.
+- [**Volcano_Engine_System**](https://github.com/FangSen9000/Volcano_Engine_System): A backend management system that mimics bytedance volcano Engine cloud service. https://fangsen9000.github.io/team1730/, You can visit our page.
 - [**BS Course Projects**](https://github.com/HENU-CS/awesome-cs/tree/master): The 19 undergraduate course projects that I completed.
 
 </details>
